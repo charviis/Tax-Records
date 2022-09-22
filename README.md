@@ -1,3 +1,3 @@
-***Návrh databáze pro daňovou evidenci***
+****Návrh databáze pro daňovou evidenci****
 
 **Navrhni databázi (peněžní deník) pro webovou aplikaci Daňová evidence pro neplátce DPH. Před samotným návrhem si stanov účel databáze, vyhledej a uspořádej si potřebné informace. Odpověz si na otázku, co vše je nutné evidovat pro účel daňové evidence, co je jejím cílem. V daňové evidenci zohledni účetní období, kterým bude pro zjednodušení problému vždy kalendářní rok. V databázi budou záznamy o výdajích a zahrnutých i nezahrnutých příjmech do základu daně. Databáze by měla být navržena tak, aby bylo možné z ní získat údaje rozdílu příjmů a výdajů (zisk vs. ztráta) pro výpočet základu daně v daňovém přiznání za každé účetní období. Výstupem bude E-R schéma exportované ve formátu PNG.**
